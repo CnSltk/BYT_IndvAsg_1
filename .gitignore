@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# Visual Studio / others
+.vs/
+*.user
+*.userprefs
+
+# Misc
+[Tt]emp/
+*.log
