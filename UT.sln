@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT.Shapes", "UT.Shapes\UT.Shapes.csproj", "{ACFB44E5-F81C-4919-A2E5-296809FD5953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT.Shapes.Tests", "UT.Shapes.Tests\UT.Shapes.Tests.csproj", "{F26A586A-1648-4CCC-A4CB-CA22C991397E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFB44E5-F81C-4919-A2E5-296809FD5953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFB44E5-F81C-4919-A2E5-296809FD5953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFB44E5-F81C-4919-A2E5-296809FD5953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFB44E5-F81C-4919-A2E5-296809FD5953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26A586A-1648-4CCC-A4CB-CA22C991397E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26A586A-1648-4CCC-A4CB-CA22C991397E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26A586A-1648-4CCC-A4CB-CA22C991397E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26A586A-1648-4CCC-A4CB-CA22C991397E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\bin\Debug\net8.0\UT.Shapes.deps.json
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\bin\Debug\net8.0\UT.Shapes.dll
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\bin\Debug\net8.0\UT.Shapes.pdb
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.AssemblyInfoInputs.cache
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.AssemblyInfo.cs
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.dll
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\refint\UT.Shapes.dll
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\UT.Shapes.pdb
+C:\Users\cansa\RiderProjects\UT\UT.Shapes\obj\Debug\net8.0\ref\UT.Shapes.dll
