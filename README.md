@@ -1,10 +1,10 @@
-## 📁 Structure
+## Structure
 - **UT.Shapes** – Geometric figures library  
 - **UT.Shapes.Tests** – Unit tests for geometric figures  
 - **UT.Calculator** – Simple arithmetic calculator  
 - **UT.Calculator.Tests** – Unit tests for the calculator  
 
-## 🧩 Part 1 – Shapes
+## Part 1 – Shapes
 Implements:
 - `Sphere`, `Cylinder`, `Cube`, and `Rectangle`
 - All classes implement the `IShape` interface  
@@ -13,11 +13,11 @@ Implements:
 - Volume is 0 for 2D shapes  
 ✅ All tests passed.
 
-## ⚙️ Part 2 – Calculator
+## Part 2 – Calculator
 - Accepts inputs `A`, `B`, and an operator `[+, -, *, /]`
 - Validates input and prevents division by zero  
 - Tested for valid, invalid, and edge cases  
 ✅ All tests passed.
 
-## 🧰 Tech
+## What is Used
 C# · .NET 8.0 · NUnit 
