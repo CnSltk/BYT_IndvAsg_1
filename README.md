@@ -11,13 +11,11 @@ Implements:
 - Each provides `CalculateArea()` and `CalculateVolume()`  
 - Invalid inputs (≤0) throw `ArgumentException`  
 - Volume is 0 for 2D shapes  
-✅ All tests passed.
 
 ## Part 2 – Calculator
 - Accepts inputs `A`, `B`, and an operator `[+, -, *, /]`
 - Validates input and prevents division by zero  
 - Tested for valid, invalid, and edge cases  
-✅ All tests passed.
 
 ## What is Used
 C# · .NET 8.0 · NUnit 
